@@ -18,6 +18,10 @@ In this study, three main problems are considered to provide a solution to PCB m
 3. Identification of defects in soldering joints on PCB, such as holes missing, mouse bites, shorts, spurs, and spurious copper.
 
 
+### Libraries used
+- tensorflow | torch | torchvision | OpenCV | sys | os | tqdm | PIL | pyzbar | tkinter | matplotlib | time | numpy | pandas | pickle | csv | math | Keras
+
+
 ## Methods Used
 
 
